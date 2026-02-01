@@ -49,4 +49,4 @@ Car-driving-sim-master/
 
 ## Controls
 
-Use keyboard controls to drive the player car and avoid collisions with NPC vehicles.
+Use keyboard controls (up/down/left/right) to drive the player car and avoid collisions with NPC vehicles/walls.
